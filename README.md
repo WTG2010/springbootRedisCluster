@@ -1,0 +1,2 @@
+# springbootRedisCluster
+windows上搭建基础的redis服务集群，由springboot项目整合集群服务实现调用
